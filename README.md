@@ -22,7 +22,7 @@ Challenges
  - Recommended approach :: `rabin2 -z`
  - Writeup :: N/A
 
-**0001-serial** - The first challenge that requires analysis. The goal is to provide a valid username + serial number combo.
+**0001-license** - The first challenge that requires analysis. The goal is to provide a valid username + license key.
  - Difficulty :: Easy
  - Recommended approach :: Static Analysis
  - Writeup :: Coming very soon
