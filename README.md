@@ -14,8 +14,7 @@ writeup.
 Flag validation is provided at [stackrip.com/flags/](https://stackrip.com/flags/).
 
 
-Challenges
-==========
+## Challenges
 
 **0000-unlockme** - Baby's first crackme. This program wants a password in exchange for a flag. Can you find that password?
  - Difficulty :: Extremely Easy
@@ -28,7 +27,6 @@ Challenges
  - Writeup :: Coming very soon
 
 
-Contributing
-============
+## Contributing
 
 If you have an idea for a crackme or a writeup, feel free to open an PR and I'll happily merge.
