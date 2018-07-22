@@ -1,10 +1,15 @@
 [Stackrip](https://stackrip.com) - RE Challenges
 =====================
 
-This repository aims to provide a set of simple reverse engineering
-challenges with incrementing difficulty.
+This repository aims to provide a set of simple reverse engineering challenges
+with incrementing difficulty. These challenges will not harm your computer in
+any way and source code is included for auditing + compilation purposes.
 
-Each challenge includes an x86-linux + amd64-macOS binary as well as the included source code. **It is recommended not to view the source code until after the challenge as been completed**. If you get stuck, the source code is provided as well as a simple writeup.
+Each challenge tonains a linux + macos directory including an x86 & x64 bit
+binary + PGP signature as well as the challenge's source code. **It is
+recommended not to view the source code until after the challenge as been
+completed**. If you get stuck, the source code is provided as well as a simple
+writeup.
 
 Flag validation is provided at [stackrip.com/flags/](https://stackrip.com/flags/).
 
